@@ -1,5 +1,1 @@
-Hi, I'm Kaitlyn 
-
-Currently, I'm learning OOP programming with Java and C++
-
-I'm a computer science student hoping to learn more about creating software.
+Hello! I'm a computer science student and I'm just posting what I make and what I'm learning on here
